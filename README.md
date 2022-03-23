@@ -1,3 +1,5 @@
 # musical-goggles
-# loops
-##The three looping control 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
